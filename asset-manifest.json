@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dijikstra/static/css/main.973b96fe.css",
+    "main.js": "/dijikstra/static/js/main.6f1be1f1.js",
+    "index.html": "/dijikstra/index.html",
+    "main.973b96fe.css.map": "/dijikstra/static/css/main.973b96fe.css.map",
+    "main.6f1be1f1.js.map": "/dijikstra/static/js/main.6f1be1f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973b96fe.css",
+    "static/js/main.6f1be1f1.js"
+  ]
+}
